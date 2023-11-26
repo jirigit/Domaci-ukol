@@ -4,8 +4,11 @@
       "type": "uuAppObjectStore",
       "realization": "MongoDB",
       "schemaMap": {
-        "seznamMain": {
-          "realization": "dao/SeznamMainMongo"
+        "homeworkMain": {
+          "realization": "dao/HomeworkMainMongo"
+        },
+        "shoppingList": {
+          "realization": "dao/ShoppingListMongo"
         }
       }
     }

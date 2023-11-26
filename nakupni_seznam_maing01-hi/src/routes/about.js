@@ -139,7 +139,7 @@ let About = createVisualComponent({
               uu5Tag="Plus4U5.App.Support"
               uuFlsUri={uuAppUuFlsBaseUri}
               uuSlsUri={uuAppUuSlsBaseUri}
-              productCode="support/nakupniSeznam"
+              productCode="support/uuHomework"
               productPortalUri={uuAppProductPortalUri}
             />
           ) : null}
@@ -147,7 +147,7 @@ let About = createVisualComponent({
             <DynamicLibraryComponent uu5Tag="UuProductCatalogue.Bricks.ProductList" type="16x9" products={products} />
           ) : null}
           <div className={Css.common()}>
-            <div>{`nakupniSeznam ${Environment.appVersion}`}</div>
+            <div>{`uuHomework ${Environment.appVersion}`}</div>
             {license.termsOfUse && (
               <div>
                 <Uu5Elements.Link href={license.termsOfUse} target="_blank">
