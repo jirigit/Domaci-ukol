@@ -1,7 +1,7 @@
 {
-  "appName": "Application nakupniSeznam",
+  "appName": "Application uuHomework",
   "About": {
-    "header": "About application nakupniSeznam",
+    "header": "About application uuHomework",
     "creatorsHeader": "Application creators",
     "termsOfUse": "Terms of use"
   },
@@ -31,6 +31,7 @@
   },
   "Menu": {
     "home": "Welcome",
-    "about": "About Application"
+    "about": "About Application",
+    "shoppingLists": "Shopping Lists"
   }
 }

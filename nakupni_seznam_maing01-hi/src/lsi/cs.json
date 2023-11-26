@@ -1,7 +1,7 @@
 {
-  "appName": "Aplikace nakupniSeznam",
+  "appName": "Aplikace uuHomework",
   "About": {
-    "header": "O aplikaci nakupniSeznam",
+    "header": "O aplikaci uuHomework",
     "creatorsHeader": "Tvůrci aplikace",
     "termsOfUse": "Podmínky užívání"
   },
@@ -31,6 +31,7 @@
   },
   "Menu": {
     "home": "Vítejte",
-    "about": "O aplikaci"
+    "about": "O aplikaci",
+    "shoppingLists": "Shopping Lists"
   }
 }

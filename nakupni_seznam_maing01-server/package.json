@@ -1,10 +1,11 @@
 {
-  "name": "nakupni_seznam_maing01-server",
+  "name": "uu_homework_maing01-server",
   "version": "0.1.0",
   "description": "",
   "license": "License Commercial",
   "spec": "nodejs-app; uu_appg01_devkit@5.15.4",
   "dependencies": {
+    "mongodb": "^6.2.0",
     "uu_appg01_server": "^5.18.0",
     "uu_apprepresentationg01": "^2.2.0"
   },
